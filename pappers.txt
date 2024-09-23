@@ -1,0 +1,6 @@
+多模态假新闻检测的增强自适应知识学习（Reinforced Adaptive Knowledge Learning for Multimodal Fake News Detection）
+MFAN: Multi-modal Feature-enhanced Attention Networks for Rumor Detection
+https://blog.csdn.net/me_yundou/article/details/127575272
+
+多模态反讽检测
+https://jorffy.github.io/2023/09/04/MSDtasks/
